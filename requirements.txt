@@ -1,2 +1,6 @@
 streamlit
 openai
+streamlit-option-menu
+langchain_community
+langchain_openai
+chromadb
